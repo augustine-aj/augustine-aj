@@ -79,6 +79,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
+
+<div align="center">
+  <h1>👋 Hello, I'm Augustine Joseph</h1>
+  
+  <h3>🚀 Hardware Design Engineer | Python Developer | Data Science Enthusiast</h3>
+</div>
+
 <h2 align="left">Hi 👋! My name is Augustine Joseph... and I'm a a passionate tech enthusiast and data scientist ...</h2>
 
 ###
