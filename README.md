@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hello, I'm Augustine Joseph</h1>
   
-  <h3>Hardware Design Engineer | Python Developer | Data Science Enthusiast</h3>
+  <h3>Hardware Design Engineer | Python Developer | Data Scientist</h3>
 </div>
 
 ---
